@@ -121,7 +121,10 @@
 | 회사 | 국가 | 회사 소개 | 주요 제품 | 대표 모델·사양 | 거래처 | 검색 키워드 | 출처 |
 |---|---|---|---|---|---|---|---|
 | PATLITE (パトライト) | 일본 | 1947 창업(오사카), 1965 회전경광등 1호기. 2013 이나바전기산업 그룹 편입. 한국·대만·태국·멕시코 등 법인 | 적층식 표시등(시그널타워), 회전등, 음성합성·경보음, 긴급차량 경광등, LED 보드, 무선 IoT(AirGRID), 펜던트 스위치 | SK/SL/SF 시리즈(2020 신형) | 생산현장·오피스·긴급차량 | 積層信号灯 回転灯 パトライト シグナルタワー | patlite.co.jp |
-| Qlight / LED_SENSE / ORIENT DISPLAY / WINSTAR DISPLAY / GUANGZHOU PANYU KANON / MONTRONIC / WINHI / ILOOKS(세기비즈) / YUEQING WINSTON | - | **이번 배치 미조사** | - | - | - | - | - |
+| Qlight (큐라이트) | 한국 | 본사 서울 가산, 공장 김해. 2026 신브랜드 'Qlightec' 발표 | 시그널 타워(적층 신호등), 경광등·사운더, 헤비듀티, 방폭 신호등, LED 작업등, 스마트팩토리(안돈·생산모니터링, LAN/무선 신호등) | QWCD35/50, QLEX-SLM-250/650, QTG50/60/70 | 공장 설비·산업 현장 | 積層信号灯 シグナルタワー 回転灯 防爆 アンドン | qlight.com |
+| WINSTAR DISPLAY | 대만(타이중)/중국 | 1998 설립, 약 1,200명. ISO9001/14001. 대만·중국 양쪽 생산(MIT+MIC) | 모노크롬 LCD(TN/STN/FSTN·COG·VATN), TFT LCD(IPS·고휘도·광온), OLED(그래픽·캐릭터·투명·노브), 스마트 디스플레이(CAN/RS485/UART), E-paper, MIP | 16×2·20×4 캐릭터, 2U 서버용 PMOLED | 산업·임베디드 | LCDモジュール キャラクタLCD OLED TFT | winstar.com.tw |
+| ORIENT DISPLAY | 중국(산터우·선전·간저우 공장)/캐나다 사무소 | 1996 설립, 3,600명(엔지니어 20%), 중국 상장 모회사. IATF16949 | 모노크롬 LCD 패널·모듈, TFT(고휘도·원형·바형), OLED, E-paper, 정전용량/저항막 터치, 임베디드 커스텀 | AMC1602AR(16×2 I2C) 등 | Bosch, Miele, Whirlpool, Samsung, LG, Audi, VW, Toyota, Garmin, Landis+Gyr | LCDパネル TFT タッチパネル カスタムLCD | orientdisplay.com |
+| LED_SENSE / GUANGZHOU PANYU KANON / MONTRONIC / WINHI / ILOOKS(세기비즈) / YUEQING WINSTON | - | **특정 못함 → 원본 확인 필요** | - | - | - | - | - |
 | 제품군: 일반모니터 / 터치모니터 / 터치패널(HMI) | - | 제품군 페이지 | - | - | - | - | - |
 
 ## 10_カメラ_카메라
